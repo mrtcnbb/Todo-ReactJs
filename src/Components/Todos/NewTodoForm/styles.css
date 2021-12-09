@@ -1,0 +1,13 @@
+input {
+  box-sizing: border-box;
+  height: 36px;
+  width: 550px;
+  font-size: 20px;
+  background-color: rgb(236, 230, 225);
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+input:focus {
+  transition: 0.9s;
+}
